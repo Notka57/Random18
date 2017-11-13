@@ -2,4 +2,6 @@
     <string name="app_name">Random18</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="enter">Enter</string>
+    <string name="vvod">Введите число</string>
 </resources>
